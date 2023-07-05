@@ -1,5 +1,8 @@
 ### Hi there 👋 I am Shubhadeep Supriyo
+# About Me:
 
+HI, I am Shuhadeep Supriyo. I am a 3rd year B.Tech CSE Student.
+I am an enthusiast learner who has keen interest in Web Development and App Development.
 <!--
 **ZealinShubh/ZealinShubh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
