@@ -22,11 +22,16 @@ Here are some ideas to get you started:
 # 👋 Hello, I'm Shubhadeep Supriyo!
 
 <!--![Profile views](https://komarev.com/ghpvc/?username=ZealinShubh&color=blue) [![GitHub followers](https://img.shields.io/github/followers/ZealinShubh?label=Follow&style=social)](https://github.com/ZealinShubh)-->
+
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-11-blue) [![GitHub followers](https://img.shields.io/github/followers/ZealinShubh?label=Follows&style=social)](https://github.com/ZealinShubh)
 
 I am a **22-year-old Full Stack Developer** with a passion for learning and building projects that solve real-world problems. I completed my B.Tech in **Computer Science & Engineering** in 2024 from **Sikkim Manipal Institute of Technology**, and since then, I’ve been on a mission to enhance my skills, contribute to open source, and explore exciting technologies.
 
----
+<!-- ---
+## 🏆 My Holopin Badges:
+
+[![Holopin Badges](https://holopin.me/hackershubh_07)](https://holopin.io/@hackershubh_07)
+--- -->
 
 ## 🔥 Technologies and Skills
 
