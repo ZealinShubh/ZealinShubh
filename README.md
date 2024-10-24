@@ -42,6 +42,8 @@ I am a **22-year-old Frontend Developer** with a passion for learning and buildi
 - **Others:** Linux (CLI Intermediate),Figma, Video Editing,
 
 ---
+## GitHub Stats
+[![stats](https://github-readme-stats.vercel.app/api?username=ZealinShubh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 My Projecta
 
@@ -93,7 +95,11 @@ Feel free to reach out to me through any of the following platforms:
 
 ## 🎨 Fun Fact
 
-I’m also into **UI/UX Design** and enjoy tinkering with **Figma** to bring creative ideas to life!
+<!--I’m also into **UI/UX Design** and enjoy tinkering with **Figma** to bring creative ideas to life!
+## 🎨 Interests-->
+- I am passionate about **UI/UX Design**, constantly exploring ways to create intuitive and visually appealing user experiences.
+- I also have a keen interest in **Mobile Photography**, capturing moments and experimenting with different techniques to tell stories through visuals.
+
 
 ---
 
