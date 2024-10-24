@@ -42,7 +42,7 @@ I am a **22-year-old Frontend Developer** with a passion for learning and buildi
 - **Others:** Linux (CLI Intermediate),Figma, Video Editing,
 
 ---
-## GitHub Stats
+## 📈 GitHub Stats
 [![stats](https://github-readme-stats.vercel.app/api?username=ZealinShubh&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 My Projecta
